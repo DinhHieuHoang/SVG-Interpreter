@@ -1,5 +1,5 @@
-# University-Management
+# SVG Interpreter
 
-CS162 - APCS - HCMUS University of Science
+CS202 - APCS - HCMUS University of Science
 
-An student management console application with basic functionality log-ins, search/add/remove/update user info, student scores, attendances, courses.
+An application that interprets a predefined SVG file (using rapidxml library), store the data as objects using OOP, Factory Pattern, Composite Pattern and draw the result on screen.
